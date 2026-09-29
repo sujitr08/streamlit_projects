@@ -2,7 +2,7 @@ import streamlit as st
 import time as t
 
 # to insert and image
-st.image("intellipaat.png")
+st.image("learn obj.png")
 
 # title-- used to add the title of an app
 st.title("Welcome to Intellipaat")
